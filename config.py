@@ -8,4 +8,4 @@ class Config:
     DB_NAME = "sandwich_maker"
     DB_USERNAME = "root"
     DB_Password = "rootroot"
-    TEMPLATE_PATH = f"{basedir}\\app\\views"
+    TEMPLATE_PATH = f"{basedir}/app/views"
